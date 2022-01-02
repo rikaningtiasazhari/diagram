@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-02T13:29:53.771Z" agent="5.0 (Windows)" etag="GOy5TF7h2NL6F6KcA9YC" version="16.1.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-01-02T13:32:44.517Z" agent="5.0 (Windows)" etag="GsXaxN73LR3Nk15b8DXS" version="16.1.2" type="github" pages="3">
   <diagram id="f2uDT9a_xL-skqSKy4VV" name="Page-1">
     <mxGraphModel dx="1422" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -183,7 +183,7 @@
       <root>
         <mxCell id="DaXFYrqNqRHY0FPXC_PA-0" />
         <mxCell id="DaXFYrqNqRHY0FPXC_PA-1" parent="DaXFYrqNqRHY0FPXC_PA-0" />
-        <mxCell id="x1mNq_aiyDWXR8bFbf8F-0" value="Mahasiswa / Dosen" style="swimlane;" vertex="1" parent="DaXFYrqNqRHY0FPXC_PA-1">
+        <mxCell id="x1mNq_aiyDWXR8bFbf8F-0" value="Mahasiswa" style="swimlane;" vertex="1" parent="DaXFYrqNqRHY0FPXC_PA-1">
           <mxGeometry x="60" y="30" width="200" height="310" as="geometry">
             <mxRectangle x="60" y="30" width="140" height="23" as="alternateBounds" />
           </mxGeometry>
