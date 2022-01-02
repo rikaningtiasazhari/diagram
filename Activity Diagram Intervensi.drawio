@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-02T11:27:26.250Z" agent="5.0 (Windows)" etag="2OrBXezJ76NaFRRcKz_b" version="16.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-02T13:27:51.011Z" agent="5.0 (Windows)" etag="xCTOupMhVeIM6qRij6cx" version="16.1.2" type="github" pages="2">
   <diagram id="f2uDT9a_xL-skqSKy4VV" name="Page-1">
-    <mxGraphModel dx="1303" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -174,6 +174,69 @@
               <mxPoint x="360" y="290" />
             </Array>
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="1HE9r2aoZhQblpc0ge6W" name="Page-2">
+    <mxGraphModel dx="823" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="DaXFYrqNqRHY0FPXC_PA-0" />
+        <mxCell id="DaXFYrqNqRHY0FPXC_PA-1" parent="DaXFYrqNqRHY0FPXC_PA-0" />
+        <mxCell id="x1mNq_aiyDWXR8bFbf8F-0" value="Mahasiswa / Dosen" style="swimlane;" vertex="1" parent="DaXFYrqNqRHY0FPXC_PA-1">
+          <mxGeometry x="60" y="30" width="200" height="310" as="geometry">
+            <mxRectangle x="60" y="30" width="140" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x1mNq_aiyDWXR8bFbf8F-6" value="Mengklik Fitur Riwayat Diagnosa" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="x1mNq_aiyDWXR8bFbf8F-0">
+          <mxGeometry x="50" y="70" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="x1mNq_aiyDWXR8bFbf8F-5" value="Sistem" style="swimlane;" vertex="1" parent="DaXFYrqNqRHY0FPXC_PA-1">
+          <mxGeometry x="260" y="30" width="200" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="x1mNq_aiyDWXR8bFbf8F-7" value="Menampilkan Halaman Riwayat Diagnosa" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="x1mNq_aiyDWXR8bFbf8F-5">
+          <mxGeometry x="50" y="170" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="x1mNq_aiyDWXR8bFbf8F-9" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="x1mNq_aiyDWXR8bFbf8F-5">
+          <mxGeometry x="85" y="259" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x1mNq_aiyDWXR8bFbf8F-10" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="x1mNq_aiyDWXR8bFbf8F-5" source="x1mNq_aiyDWXR8bFbf8F-7" target="x1mNq_aiyDWXR8bFbf8F-9">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-60" y="350" as="sourcePoint" />
+            <mxPoint x="100" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x1mNq_aiyDWXR8bFbf8F-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="x1mNq_aiyDWXR8bFbf8F-5">
+          <mxGeometry x="85" y="24" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x1mNq_aiyDWXR8bFbf8F-11" value="Database" style="swimlane;" vertex="1" parent="DaXFYrqNqRHY0FPXC_PA-1">
+          <mxGeometry x="460" y="30" width="200" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="x1mNq_aiyDWXR8bFbf8F-13" value="Mengambil Data" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="x1mNq_aiyDWXR8bFbf8F-11">
+          <mxGeometry x="40" y="130" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x1mNq_aiyDWXR8bFbf8F-17" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="DaXFYrqNqRHY0FPXC_PA-1" source="x1mNq_aiyDWXR8bFbf8F-3" target="x1mNq_aiyDWXR8bFbf8F-6">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="205" y="139.5" as="sourcePoint" />
+            <mxPoint x="160" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x1mNq_aiyDWXR8bFbf8F-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="DaXFYrqNqRHY0FPXC_PA-1" source="x1mNq_aiyDWXR8bFbf8F-1" target="x1mNq_aiyDWXR8bFbf8F-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="155" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x1mNq_aiyDWXR8bFbf8F-3" value="Menampilkan Halaman Utama" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="DaXFYrqNqRHY0FPXC_PA-1">
+          <mxGeometry x="310" y="100" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="x1mNq_aiyDWXR8bFbf8F-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="DaXFYrqNqRHY0FPXC_PA-1" source="x1mNq_aiyDWXR8bFbf8F-6" target="x1mNq_aiyDWXR8bFbf8F-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x1mNq_aiyDWXR8bFbf8F-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="DaXFYrqNqRHY0FPXC_PA-1" source="x1mNq_aiyDWXR8bFbf8F-13" target="x1mNq_aiyDWXR8bFbf8F-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
