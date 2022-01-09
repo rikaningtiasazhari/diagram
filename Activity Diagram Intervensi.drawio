@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-09T18:00:56.616Z" agent="5.0 (Windows)" etag="5c2UMSXPwDccRDFmHadp" version="16.2.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-01-09T18:11:13.020Z" agent="5.0 (Windows)" etag="BU1h61fbDCJbZw6di3WZ" version="16.2.4" type="github" pages="5">
   <diagram id="f2uDT9a_xL-skqSKy4VV" name="Page-1">
     <mxGraphModel dx="782" dy="420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -372,6 +372,27 @@
       <root>
         <mxCell id="y-lFtRXpAIB3BwuuqSHm-0" />
         <mxCell id="y-lFtRXpAIB3BwuuqSHm-1" parent="y-lFtRXpAIB3BwuuqSHm-0" />
+        <mxCell id="y-lFtRXpAIB3BwuuqSHm-2" value="Akun" style="swimlane;" vertex="1" parent="y-lFtRXpAIB3BwuuqSHm-1">
+          <mxGeometry x="40" y="40" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="y-lFtRXpAIB3BwuuqSHm-3" value="Diagnosa" style="swimlane;" vertex="1" parent="y-lFtRXpAIB3BwuuqSHm-1">
+          <mxGeometry x="40" y="300" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="y-lFtRXpAIB3BwuuqSHm-4" value="Gejala" style="swimlane;startSize=23;" vertex="1" parent="y-lFtRXpAIB3BwuuqSHm-1">
+          <mxGeometry x="300" y="40" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="y-lFtRXpAIB3BwuuqSHm-5" value="Intervensi" style="swimlane;" vertex="1" parent="y-lFtRXpAIB3BwuuqSHm-1">
+          <mxGeometry x="260" y="300" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="y-lFtRXpAIB3BwuuqSHm-6" value="Menu" style="swimlane;" vertex="1" parent="y-lFtRXpAIB3BwuuqSHm-1">
+          <mxGeometry x="580" y="40" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="y-lFtRXpAIB3BwuuqSHm-7" value="Uraian" style="swimlane;" vertex="1" parent="y-lFtRXpAIB3BwuuqSHm-1">
+          <mxGeometry x="490" y="300" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="y-lFtRXpAIB3BwuuqSHm-8" value="Vertical Container" style="swimlane;" vertex="1" parent="y-lFtRXpAIB3BwuuqSHm-1">
+          <mxGeometry x="710" y="300" width="200" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
