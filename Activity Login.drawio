@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-11T08:33:06.805Z" agent="5.0 (Windows)" etag="yU1YvukmKimeGOM68UXU" version="16.2.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-11T09:02:50.573Z" agent="5.0 (Windows)" etag="JQ1xeBC34BIeR23JZzEe" version="16.2.4" type="github" pages="2">
   <diagram id="jktMuCbY1RKxJo_EEakk" name="Page-1">
     <mxGraphModel dx="782" dy="420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -236,9 +236,6 @@
         </mxCell>
         <mxCell id="V-ujotZpwQyQkypNOhEt-67" value="&lt;div align=&quot;left&quot;&gt;id&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;nama_role&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#46495D;" vertex="1" parent="V-ujotZpwQyQkypNOhEt-66">
           <mxGeometry x="10" y="50" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="V-ujotZpwQyQkypNOhEt-76" value="role_id" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#46495D;" vertex="1" parent="V-ujotZpwQyQkypNOhEt-1">
-          <mxGeometry x="32" y="911" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
